@@ -2,7 +2,8 @@
 
 # 🔵 NEURAL CORE MATRIX
 
-https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=500&color=00FFEE&background=0A1E2E&center=true&vCenter=true&random=false&width=440&lines=Stack+Overlord;System+Online;Hyperdrive+On
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=500&color=00FFEE&background=0A1E2E&center=true&vCenter=true&random=false&width=440&lines=Stack+Overlord;System+Online;Hyperdrive+On)
+
 
 ---
 
