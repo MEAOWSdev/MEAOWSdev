@@ -2,9 +2,6 @@
 
 # 🔵 NEURAL CORE MATRIX
 
-<!-- Temporary cyberpunk placeholder; replace with custom image if confirmed -->
-<img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?ixlib=rb-4.0.3&auto=format&fit=crop&w=700&h=150&q=80" alt="Cyberpunk Header" width="700"/>
-
 ![Quantum Interface](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=500&color=00FFEE&background=0A1E2E&center=true&vCenter=true&random=false&width=400&lines=Stack+Overlord;System+Online;Hyperdrive+On)
 
 ---
