@@ -3,9 +3,9 @@
 # 🔵 NEURAL CORE MATRIX
 
 <!-- Placeholder for header image; replace with custom image if confirmed -->
-<img src="https://via.placeholder.com/800x200/0A1E2E/00FFEE?text=NEON+CITY+DEV+HUB" alt="Cyberpunk Header" width="800"/>
+<img src="https://via.placeholder.com/700x150/0A1E2E/00FFEE?text=NEON+CITY+DEV+HUB" alt="Cyberpunk Header" width="700"/>
 
-![Quantum Interface](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=2000&pause=300&color=00FFEE&background=0A1E2E¢er=true&vCenter=true&random=false&width=600&lines=Full+Stack+Overlord;System+Boot+Sequence+Initiated;Hyperdrive+Engaged+at+Maximum+Thrust)
+![Quantum Interface](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=500&color=00FFEE&background=0A1E2E¢er=true&vCenter=true&random=false&width=400&lines=Stack+Overlord;System+Online;Hyperdrive+Active)
 
 ---
 
@@ -125,8 +125,8 @@
 ## 🛠 SYSTEM DIAGNOSTICS
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MEAOWSdev&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&border_color=00FFEE&title_color=00FFEE&icon_color=00FFEE&text_color=FFFFFF&bg_color=0A1E2E" style="margin-right: 10px"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEAOWSdev&layout=compact&theme=transparent&border_color=00FFEE&title_color=00FFEE&text_color=FFFFFF&bg_color=0A1E2E"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MEAOWSdev&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&border_color=00FFEE&title_color=00FFEE&icon_color=00FFEE&text_color=FFFFFF&bg_color=0A1E2E" style="margin-right: 10px"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEAOWSdev&layout=compact&theme=transparent&border_color=00FFEE&title_color=00FFEE&text_color=FFFFFF&bg_color=0A1E2E"/>
 </p>
 
 <p align="center">
@@ -145,7 +145,7 @@
 
 ---
 
-<div style="background: linear-gradient(90deg, #0A1E2E, #1E3A5F); padding: 20px; border-radius: 10px; border: 2px solid #00FFEE;">
+<div style="background: linear-gradient(90deg, #0A1E2E, #1E3A5F); padding: 15px; border-radius: 8px; border: 2px solid #00FFEE;">
   <h3 style="color: #00FFEE; font-family: 'Orbitron', sans-serif;">⚡️ SYSTEM STATUS: OVERCLOCKED ⚡️</h3>
   <p style="color: #FFFFFF;">Fueled by Neon Code, Quantum Caffeine, and Relentless Innovation</p>
 </div>
