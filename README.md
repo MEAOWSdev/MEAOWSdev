@@ -2,10 +2,10 @@
 
 # 🔵 NEURAL CORE MATRIX
 
-<!-- Placeholder for header image -->
+<!-- Placeholder for header image; replace with custom image if confirmed -->
 <img src="https://via.placeholder.com/800x200/0A1E2E/00FFEE?text=NEON+CITY+DEV+HUB" alt="Cyberpunk Header" width="800"/>
 
-![Quantum Interface](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=2000&pause=300&color=00FFEE&background=0A1E2E&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Overlord;System+Boot+Sequence+Initiated;Hyperdrive+Engaged+at+Maximum+Thrust)
+![Quantum Interface](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=2000&pause=300&color=00FFEE&background=0A1E2E¢er=true&vCenter=true&random=false&width=600&lines=Full+Stack+Overlord;System+Boot+Sequence+Initiated;Hyperdrive+Engaged+at+Maximum+Thrust)
 
 ---
 
@@ -130,7 +130,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MEAOWSdev&theme=transparent&border=00FFEE&stroke=00FFEE&ring=00FFEE&fire=00FFEE&currStreakLabel=00FFEE&sideLabels=FFFFFF&dates=FFFFFF&background=0A1E2E" />
+  <img src="https://streak-stats.demolab.com/?user=MEAOWSdev&theme=transparent&border=00FFEE&stroke=00FFEE&ring=00FFEE&fire=00FFEE&currStreakLabel=00FFEE&sideLabels=FFFFFF&dates=FFFFFF&background=0A1E2E" />
 </p>
 
 <p align="center">
