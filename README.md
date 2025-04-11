@@ -2,7 +2,10 @@
 
 # 🔵 NEURAL CORE MATRIX
 
-![Quantum Interface](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=500&color=00FFEE&background=0A1E2E&center=true&vCenter=true&random=false&width=400&lines=Stack+Overlord;System+Online;Hyperdrive+On)
+<!-- New cyberpunk header image -->
+<img src="https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?ixlib=rb-4.0.3&auto=format&fit=crop&w=700&h=150&q=80" alt="Cyberpunk Header" width="700"/>
+
+![Quantum Interface](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=500&color=00FFEE&background=0A1E2E¢er=true&vCenter=true&random=false&width=400&lines=Stack+Overlord;System+Online;Hyperdrive+On)
 
 ---
 
@@ -10,8 +13,7 @@
 
 **A fully integrated suite of tools powering the future of code.**
 
-<details>
-<summary><b>🔹 Core Protocols</b> (Languages)</summary>
+### 🔹 Core Protocols (Languages)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -25,10 +27,7 @@
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>🔹 Interface Systems</b> (Frontend)</summary>
+### 🔹 Interface Systems (Frontend)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -48,10 +47,7 @@
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>🔹 Backend Matrix</b> (Backend & Infrastructure)</summary>
+### 🔹 Backend Matrix (Backend & Infrastructure)
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![ApacheSpark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=flat-square&logo=apachespark&logoColor=E35A16)
@@ -69,10 +65,7 @@
 ![DedicatedServer](https://img.shields.io/badge/Dedicated_Server-0080FF?style=flat-square&logo=server&logoColor=white)
 ![CloudHosting](https://img.shields.io/badge/Cloud_Hosting-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>🔹 Code Forging & Deconstruction</b> (Reverse Engineering)</summary>
+### 🔹 Code Forging & Deconstruction (Reverse Engineering)
 
 ![x64dbg](https://img.shields.io/badge/x64dbg-211A1A?style=flat-square&logo=x64dbg&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-4A154B?style=flat-square&logo=ghidra&logoColor=white)
@@ -82,10 +75,7 @@
 ![ReverseEngineering](https://img.shields.io/badge/Reverse_Engineering-FF3E00?style=flat-square&logo=reverseengineering&logoColor=white)
 ![MemoryAnalysis](https://img.shields.io/badge/Memory_Analysis-FD3A5C?style=flat-square&logo=memory&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>🔹 Automation & Neural Nets</b> (Bots & Vision)</summary>
+### 🔹 Automation & Neural Nets (Bots & Vision)
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
@@ -94,10 +84,7 @@
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=autohotkey&logoColor=white)
 ![ComputerVision](https://img.shields.io/badge/Computer_Vision-FF6B6B?style=flat-square&logo=opencv&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>🔹 Commerce & Content Systems</b> (CMS/E-commerce)</summary>
+### 🔹 Commerce & Content Systems (CMS/E-commerce)
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
@@ -114,8 +101,6 @@
 ![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=flat-square&logo=contentful&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white)
 ![DatalifeEngine](https://img.shields.io/badge/Datalife_Engine-2B5BE0?style=flat-square&logo=dle&logoColor=white)
-
-</details>
 
 ---
 
