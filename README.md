@@ -2,10 +2,9 @@
 
 # 🔵 NEURAL CORE MATRIX
 
-<!-- New cyberpunk header image -->
 <img src="https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?ixlib=rb-4.0.3&auto=format&fit=crop&w=700&h=150&q=80" alt="Cyberpunk Header" width="700"/>
 
-![Quantum Interface](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=500&color=00FFEE&background=0A1E2E¢er=true&vCenter=true&random=false&width=400&lines=Stack+Overlord;System+Online;Hyperdrive+On)
+![Quantum Interface](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=500&color=00FFEE&background=0A1E2E¢er=true&vCenter=true&random=false&width=420&lines=Stack+Overlord;System+Online;Hyperdrive+On)
 
 ---
 
