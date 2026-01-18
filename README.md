@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0A0A,50:1a1a2e,100:16213e&height=200&section=header&text=MEAOWS&fontSize=90&fontColor=00FFEE&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Main%20Stack%3A%20Rust%20%F0%9F%A6%80&descAlignY=60&descSize=16&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0A0A,50:1a1a2e,100:16213e&height=220&section=header&text=MEAOWS&fontSize=90&fontColor=00FFEE&animation=twinkling&fontAlignY=32&desc=Crafting%20Code%20That%20Runs%20at%20Light%20Speed%20%E2%9A%A1&descAlignY=58&descSize=18&descColor=ffffff"/>
 
 <br/>
 
@@ -13,7 +13,7 @@
 <br/><br/>
 
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFEE&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%A6%80+Rust+as+Primary+Stack;%E2%9A%A1+High-Performance+Systems+Developer;%F0%9F%94%A7+Backend+Architecture+%26+Scalability" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00FFEE&center=true&vCenter=true&repeat=true&random=false&width=750&height=70&lines=%F0%9F%A6%80+Rust+Advocate+%7C+Zero-Cost+Abstractions+Enjoyer;%E2%9A%A1+Building+Systems+That+Never+Sleep;%F0%9F%94%A5+From+Assembly+to+Distributed+Microservices;%F0%9F%9A%80+Performance+Is+Not+Optional%2C+It's+The+Standard;%F0%9F%94%92+Memory+Safety+Without+Garbage+Collection" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -31,13 +31,27 @@
 
 <!-- About Section -->
 ```rust
-impl Developer for Meaows {
-    fn get_current_focus(&self) -> Vec<&str> {
-        vec!["High-Performance Systems", "Distributed Architectures", "Automation & Scraping"]
+pub struct Meaows {
+    role: &'static str,
+    primary_stack: &'static str,
+    obsession: &'static str,
+}
+
+impl Meaows {
+    pub const fn new() -> Self {
+        Self {
+            role: "Full-Stack Systems Developer",
+            primary_stack: "Rust 🦀",
+            obsession: "Making things blazingly fast",
+        }
     }
-    
-    fn get_daily_routine(&self) -> String {
-        String::from("Code → Optimize → Deploy → Repeat 🔁")
+
+    pub fn current_mission(&self) -> &str {
+        "Building distributed systems that scale to infinity"
+    }
+
+    pub fn philosophy(&self) -> &str {
+        "If it compiles, it works. If it's slow, rewrite it in Rust."
     }
 }
 ```
