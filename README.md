@@ -31,7 +31,7 @@
 
 ---
 
-# Engineering Stack
+<h1 align="center">Engineering Stack</h1>
 
 <p align="center">
   <img height="44" src="https://img.shields.io/badge/RUST-0B0D10?style=for-the-badge&logo=rust&logoColor=F5F6F7" alt="Rust" />
@@ -48,12 +48,12 @@
 </p>
 
 <p align="center">
-  <strong>Systems programming · async backends · native tooling · high-performance services · low-overhead architecture</strong>
+  <strong><p align="center">Systems programming · async backends · native tooling · high-performance services · low-overhead architecture</p></strong>
 </p>
 
 ---
 
-# 3D, Graphics & DCC
+<h1 align="center">3D, Graphics & DCC</h1>
 
 <p align="center">
   <img height="44" src="https://img.shields.io/badge/THREE.JS-SPECIALIST-0B0D10?style=for-the-badge&logo=threedotjs&logoColor=F5F6F7" alt="Three.js Specialist" />
@@ -76,7 +76,7 @@
   <img src="https://img.shields.io/badge/ASSET%20PIPELINES-292D33?style=flat-square&logoColor=F5F6F7" alt="Asset Pipelines" />
 </p>
 
-### DCC Add-on Development
+<h3 align="center">DCC Add-on Development</h3>
 
 <p align="center">
   <img height="40" src="https://img.shields.io/badge/BLENDER%20ADD--ONS-15181C?style=for-the-badge&logo=blender&logoColor=F5F6F7" alt="Blender Add-ons" />
@@ -84,12 +84,12 @@
 </p>
 
 <p align="center">
-  Blender API · Maya Python API · mesh processing · UV tooling · rigging utilities · import/export · asset conversion · workflow automation
+  <p align="center">Blender API · Maya Python API · mesh processing · UV tooling · rigging utilities · import/export · asset conversion · workflow automation</p>
 </p>
 
 ---
 
-# Reverse Engineering & Reconstruction
+<h1 align="center">Reverse Engineering & Reconstruction</h1>
 
 <p align="center">
   <img height="42" src="https://img.shields.io/badge/REVERSE%20ENGINEERING-0B0D10?style=for-the-badge&logoColor=F5F6F7" alt="Reverse Engineering" />
@@ -120,7 +120,7 @@
   <img src="https://img.shields.io/badge/BINARY%20EXPLOITATION-292D33?style=flat-square&logoColor=F5F6F7" alt="Binary Exploitation" />
 </p>
 
-### Game Modding & Asset Reconstruction
+<h3 align="center">Game Modding & Asset Reconstruction</h3>
 
 <p align="center">
   <img height="38" src="https://img.shields.io/badge/GAME%20MODDING-15181C?style=for-the-badge&logoColor=F5F6F7" alt="Game Modding" />
@@ -130,12 +130,12 @@
 </p>
 
 <p align="center">
-  Proprietary formats · custom parsers · asset inspection · format research · reconstruction pipelines · custom editors
+  <p align="center">Proprietary formats · custom parsers · asset inspection · format research · reconstruction pipelines · custom editors</p>
 </p>
 
 ---
 
-# Languages
+<h1 align="center">Languages</h1>
 
 <p align="center">
   <img height="36" src="https://img.shields.io/badge/Rust-111419?style=for-the-badge&logo=rust&logoColor=F5F6F7" alt="Rust" />
@@ -163,7 +163,7 @@
 
 ---
 
-# Frontend
+<h1 align="center">Frontend</h1>
 
 <p align="center">
   <img height="36" src="https://img.shields.io/badge/HTML5-111419?style=for-the-badge&logo=html5&logoColor=F5F6F7" alt="HTML5" />
@@ -194,7 +194,7 @@
 
 ---
 
-# Backend, Data & Infrastructure
+<h1 align="center">Backend, Data & Infrastructure</h1>
 
 <p align="center">
   <img height="36" src="https://img.shields.io/badge/Bun-111419?style=for-the-badge&logo=bun&logoColor=F5F6F7" alt="Bun" />
@@ -205,7 +205,7 @@
   <img height="36" src="https://img.shields.io/badge/PowerShell-111419?style=for-the-badge&logo=powershell&logoColor=F5F6F7" alt="PowerShell" />
 </p>
 
-### Databases & Data Layer
+<h3 align="center">Databases & Data Layer</h3>
 
 <p align="center">
   <img height="34" src="https://img.shields.io/badge/PostgreSQL-1A1D21?style=for-the-badge&logo=postgresql&logoColor=F5F6F7" alt="PostgreSQL" />
@@ -222,7 +222,7 @@
   <img src="https://img.shields.io/badge/Cassandra-292D33?style=flat-square&logo=apachecassandra&logoColor=F5F6F7" alt="Cassandra" />
 </p>
 
-### Infrastructure
+<h3 align="center">Infrastructure</h3>
 
 <p align="center">
   <img height="34" src="https://img.shields.io/badge/Docker-1A1D21?style=for-the-badge&logo=docker&logoColor=F5F6F7" alt="Docker" />
@@ -242,7 +242,7 @@
 
 ---
 
-# Desktop & Native
+<h1 align="center">Desktop & Native</h1>
 
 <p align="center">
   <img height="36" src="https://img.shields.io/badge/Tauri-111419?style=for-the-badge&logo=tauri&logoColor=F5F6F7" alt="Tauri" />
@@ -255,7 +255,7 @@
 
 ---
 
-# Automation & Bots
+<h1 align="center">Automation & Bots</h1>
 
 <p align="center">
   <img height="36" src="https://img.shields.io/badge/Selenium-111419?style=for-the-badge&logo=selenium&logoColor=F5F6F7" alt="Selenium" />
@@ -273,7 +273,7 @@
 
 ---
 
-# CMS & E-commerce
+<h1 align="center">CMS & E-commerce</h1>
 
 <p align="center">
   <img height="34" src="https://img.shields.io/badge/WordPress-111419?style=for-the-badge&logo=wordpress&logoColor=F5F6F7" alt="WordPress" />
